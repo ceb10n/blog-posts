@@ -1,3 +1,10 @@
+# Understanding FastAPI: The Basics
+
+* [Linkedin](https://www.linkedin.com/pulse/understanding-fastapi-basics-rafael-de-oliveira-marques-xfvaf)
+* [dev.to/ceb10n](https://dev.to/ceb10n/understanding-fastapi-the-basics-246j)
+* [github.com/ceb10n](https://github.com/ceb10n/blog-posts/tree/master/understanding-fastapi-the-basics)
+* [ceb10n.medium.com](https://ceb10n.medium.com/understanding-fastapi-the-basics-14221665f742)
+
 I've been working with [FastAPI](https://fastapi.tiangolo.com/) for a while now, and I decided to start digging a little deeper on it's internals.
 
 Let's start from the beggining:
