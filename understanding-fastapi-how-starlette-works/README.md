@@ -3,6 +3,7 @@
 * [Linkedin](https://www.linkedin.com/pulse/understanding-fastapi-how-starlette-works-rafael-de-oliveira-marques-juflf)
 * [dev.to/ceb10n](https://dev.to/ceb10n/understanding-fastapi-how-starlette-works-43i1)
 * [github.com/ceb10n](https://github.com/ceb10n/blog-posts/tree/master/understanding-fastapi-how-starlette-works)
+* [ceb10n.medium.com](https://ceb10n.medium.com/understanding-fastapi-how-starlette-works-d518a3d22222)
 
 We've seen in the [last post](https://dev.to/ceb10n/understanding-fastapi-the-basics-246j) that FastAPI is built on top of Starllete. We also saw that [Starlette](https://www.starlette.io/) is a lightweight ASGI framework/toolkit.
 
