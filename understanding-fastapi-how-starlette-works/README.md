@@ -1,5 +1,9 @@
 # Understanding FastAPI: How Starlette works
 
+* [Linkedin](https://www.linkedin.com/pulse/understanding-fastapi-how-starlette-works-rafael-de-oliveira-marques-juflf)
+* [dev.to/ceb10n](https://dev.to/ceb10n/understanding-fastapi-how-starlette-works-43i1)
+* [github.com/ceb10n](https://github.com/ceb10n/blog-posts/tree/master/understanding-fastapi-how-starlette-works)
+
 We've seen in the [last post](https://dev.to/ceb10n/understanding-fastapi-the-basics-246j) that FastAPI is built on top of Starllete. We also saw that [Starlette](https://www.starlette.io/) is a lightweight ASGI framework/toolkit.
 
 Now, to start undertanding how FastAPI works, let's see what Starlette has to offer, how he deals with our HTTP requests, etc.
