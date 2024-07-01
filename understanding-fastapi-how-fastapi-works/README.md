@@ -1,5 +1,10 @@
 # Understanding FastAPI: How FastAPI works
 
+* [Linkedin](https://www.linkedin.com/pulse/understanding-fastapi-how-works-rafael-de-oliveira-marques-hdtwf)
+* [dev.to/ceb10n](https://dev.to/ceb10n/understanding-fastapi-how-fastapi-works-37od)
+* [github.com/ceb10n](https://github.com/ceb10n/blog-posts/tree/master/understanding-fastapi-how-fastapi-works)
+* [ceb10n.medium.com](https://ceb10n.medium.com/understanding-fastapi-how-fastapi-works-6df7a793fefb)
+
 At this point we've seen[ how ASGI servers and our applications talk to each other](https://dev.to/ceb10n/understanding-fastapi-the-basics-246j) and how [Starllete, the foundation of FastAPI works](https://dev.to/ceb10n/understanding-fastapi-how-starlette-works-43i1).
 
 Now it's time to take a closer look on how [FastAPI](https://fastapi.tiangolo.com/) extends [Starllete](https://www.starlette.io/).
