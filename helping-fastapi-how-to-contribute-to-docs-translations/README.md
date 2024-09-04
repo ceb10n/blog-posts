@@ -2,6 +2,7 @@
 
 * [dev.to/ceb10n](https://dev.to/ceb10n/understanding-fastapi-how-fastapi-works-37od)
 * [github.com/ceb10n](https://github.com/ceb10n/blog-posts/tree/master/helping-fastapi-how-to-contribute-to-docs-translations)
+* [ceb10n.medium.com](https://medium.com/@ceb10n/helping-fastapi-how-to-contribute-to-docs-translations-e0015b170d93)
 
 One of the great features of [FastAPI](https://fastapi.tiangolo.com/) is its great documentation 👏. But wouldn't it be better if more people around the world had access to this documentation? ❤️
 
