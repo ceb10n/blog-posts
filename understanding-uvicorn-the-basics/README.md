@@ -1,5 +1,6 @@
 # Understanding Uvicorn: The basics
 
+* [Linkedin](https://www.linkedin.com/pulse/understanding-uvicorn-basics-rafael-de-oliveira-marques-oycvf)
 * [dev.to/ceb10n](https://dev.to/ceb10n/understanding-uvicorn-4gi8)
 
 Last year I wrote a series of articles explaining how [FastAPI](https://github.com/fastapi/fastapi) works. It was a rewarding experience, since I was able to both share my knowledge and learn more about it.
